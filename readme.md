@@ -2,7 +2,7 @@
 
 Bootstrap website for downloading a free E-book. This website has a light, business-oriented design.
 
-<img src="./images/screen.png"  />
+<img src="https://bg-so-1.zippyimage.com/2024/02/27/2fd17f3ba96e3a2e8f93185e21fa7fca.jpg" alt="photo" border="0" />
 
 ## Features
 
